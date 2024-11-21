@@ -1,6 +1,7 @@
 ##########
 # ai-case-study
 Module 1 Challenge - Research an AI Company
+GITHUB Link: https://github.com/AIBC2024/ai-case-study
 ##########
 
 ##########
